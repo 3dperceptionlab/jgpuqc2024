@@ -26,8 +26,8 @@ The conference will take place on **Friday, February 16, 2024**, from 10h to 14h
 
 </details>
 
-- CUDA Hands On Lab: [Link]()
-- Qiskit Hands On Lab: [Link]()
+- CUDA Hands On Lab: [Link](https://colab.research.google.com/drive/1SG2glGFnpRbcmqNhtlDXqVboQRhwDjy6?usp=sharing)
+- Qiskit Hands On Lab: [Link](https://drive.google.com/file/d/13LGJdaAAb7_VBVEoO0pOuQ7s-grJuyDY/view?usp=sharing)
 
 ## Authors
 - Manuel Benavent Lledó ([mbenavent@dtic.ua.es](mailto:mbenavent@dtic.ua.es))
