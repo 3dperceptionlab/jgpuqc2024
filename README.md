@@ -1,4 +1,9 @@
 # Jornada de Divulgación de Aplicaciones Científicas sobre Procesadores Gráficos y Quantum Computing JGPUQC 2024
+
+<p align="center">
+  <img src="/Poster.jpg">
+</p>
+
 Bienvenidos al repositorio de las jornadas del mes cultural de la UA dedicadas a la programación de GPUs con CUDA y computación cuántica.
 
 El gran aumento en el rendimiento del hardware gráfico, junto con mejoras recientes en su programabilidad, han hecho de dicho hardware un referente como plataforma para las tareas de cómputo exigentes en una gran variedad de dominios de uso. Los últimos años ha crecido el interés en los conocidos colectivamente como GPGPU (Unidades de procesamiento gráfico de propósito general).
